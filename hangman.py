@@ -159,6 +159,8 @@ def getPlayerGuess(alreadyGuessed):
         else:
             return guess
 
+def add(a, b):
+ return a + b
 
 # If this program was run (instead of imported), run the game:
 if __name__ == '__main__':
